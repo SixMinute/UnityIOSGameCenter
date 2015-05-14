@@ -1,0 +1,4 @@
+@interface GameCenterWrapper : NSObject {
+}
+
+@end
